@@ -2,7 +2,7 @@
 
 由Maxing博士研发的十分甚至九分好的系统
 
-[English](.README_EN.md) | [日本語](.README_JA.md)
+[English](./README_EN.md) | [日本語](./README_JA.md)
 
 ## 开发历程
 
@@ -37,46 +37,46 @@ Maxing博士得到这位日本人的个人信息后，又扒出了几位吉尔�
 
 ## 他们都这样评价Manjaor
 
-<img src="./images/1.jpg" title="" alt="1.jpg" width="179">
+<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/1.jpg" title="" alt="1.jpg" width="179">
 
 1.
 
-<img title="" src="./images/2.jpg" alt="2.jpg" width="179">
+<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/2.jpg" alt="2.jpg" width="179">
 
 2.
 
-<img src="./images/3.jpg" title="" alt="3.jpg" width="250">
+<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/3.jpg" title="" alt="3.jpg" width="250">
 
 3.
 
-<img title="" src="./images/4.jpg" alt="4.jpg" width="201">
+<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/4.jpg" alt="4.jpg" width="201">
 
 4.
 
-<img title="" src="./images/5.jpg" alt="5.jpg" data-align="inline">
+<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/5.jpg" alt="5.jpg" data-align="inline">
 
 5.
 
-<img src="./images/6.jpg" title="" alt="6.jpg" width="273">
+<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/6.jpg" title="" alt="6.jpg" width="273">
 
 6.
 
-<img src="./images/7.jpg" title="" alt="7.jpg" width="221">
+<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/7.jpg" title="" alt="7.jpg" width="221">
 
 7.
 
-![8.jpg](./images/8.jpg)
+![8.jpg](https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/8.jpg)
 
 8.
 
-<img title="" src="./images/9.jpg" alt="9.jpg" width="272">
+<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/9.jpg" alt="9.jpg" width="272">
 
 9.
 
-<img title="" src="./images/10.jpg" alt="10.jpg" width="267">
+<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/10.jpg" alt="10.jpg" width="267">
 
 10.
 
-<img title="" src="./images/11.jpg" alt="11.jpg" width="302">
+<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/11.jpg" alt="11.jpg" width="302">
 
 11.
