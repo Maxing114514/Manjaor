@@ -8,17 +8,17 @@ It is said that in the Jurassic period, an old man developed the *Mimi Shitworld
 
 ## Development inspiration
 
-"Linux uses macro kernel, which is too backward! I want to try Minix." -- Dr. Ma Xing thought.
+"Linux uses macro kernel, which is too backward! I want to try Minix." -- Dr. Ma Xing thought.  
 
-So Dr. Ma Xing [chong](https://www.urbandictionary.com/define.php?term=Chong)ed the microkernel, in the twinkling of an eye, Manjaor, an operating system based on microkernel, was developed!
+So Dr. Ma Xing [chong](https://www.urbandictionary.com/define.php?term=Chong)ed the microkernel, in the twinkling of an eye, Manjaor, an operating system based on microkernel, was developed!  
 
-Because Dr. Ma Xing developed Manjaor, all major media have rushed to report it. Everyone has installed Manjaor on their toilet. The system with the **max**ing performance immediately makes people feel the magic of Manjaor system.
+Because Dr. Ma Xing developed Manjaor, all major media have rushed to report it. Everyone has installed Manjaor on their toilet. The system with the **max**ing performance immediately makes people feel the magic of Manjaor system.  
 
-However, the popularity of Manjaor system will inevitably lead to crisis.
+However, the popularity of Manjaor system will inevitably lead to crisis.  
 
-"Manjaor is not good!" said a Japanese, "Manjaor is the conspiracy of [the three-body](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) people".
+"Manjaor is not good!" said a Japanese, "Manjaor is the conspiracy of [the three-body](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) people".  
 
-According to Dr. Ma Xing's Pandora's Magic Box, the Japanese is called Mailset. He often sends semen to the three-body fleet, which is why the three-body people have not invaded the earth yet.
+According to Dr. Ma Xing's Pandora's Magic Box, the Japanese is called Mailset. He often sends semen to the three-body fleet, which is why the three-body people have not invaded the earth yet.  
 
 After getting the personal information of the Japanese, Dr. Ma Xing uncovered the conspiracy of several Kyrgyzstan hackers. And he talked to the Kyrgyzstan hackers and asked them to stop using SSHit. Since then, the Manjaor system has once again become the world's most popular system.
 
