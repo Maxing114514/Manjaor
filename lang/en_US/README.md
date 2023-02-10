@@ -1,4 +1,4 @@
-# What is *Manjaor*?
+# Manjaor
 
 Manjaor was developed by Dr. Ma Xing, is perfect and even good.
 
@@ -34,47 +34,47 @@ After getting the personal information of the Japanese, Dr. Ma Xing uncovered th
 
 ## They said
 
-<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/1.jpg" title="" alt="1.jpg" width="179">
+<img src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/1.jpg" title="" alt="1.jpg" width="179">
 
 1. You're late.
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/2.jpg" alt="2.jpg" width="179">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/2.jpg" alt="2.jpg" width="179">
 
 2. I have a lawyer.
 
-<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/3.jpg" title="" alt="3.jpg" width="250">
+<img src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/3.jpg" title="" alt="3.jpg" width="250">
 
 3. You've ruined everything for me!
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/4.jpg" alt="4.jpg" width="201">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/4.jpg" alt="4.jpg" width="201">
 
 4. Fuck me.
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/5.jpg" alt="5.jpg" data-align="inline">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/5.jpg" alt="5.jpg" data-align="inline">
 
 5. Be careful I'll call you!
 
-<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/6.jpg" title="" alt="6.jpg" width="273">
+<img src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/6.jpg" title="" alt="6.jpg" width="273">
 
 6. I won't doxing you if you give me $3.
 
-<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/7.jpg" title="" alt="7.jpg" width="221">
+<img src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/7.jpg" title="" alt="7.jpg" width="221">
 
 7. You are all [Sha Bi](https://www.urbandictionary.com/define.php?term=Sha+Bi).
 
-![8.jpg](https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/8.jpg)
+![8.jpg](https://raw.fastgit.org/Maxing114514/Manjaor/main/images/8.jpg)
 
 8. If you give me more money, I will spare you.
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/9.jpg" alt="9.jpg" width="272">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/9.jpg" alt="9.jpg" width="272">
 
 9. Be careful I'll find you at your house!
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/10.jpg" alt="10.jpg" width="267">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/10.jpg" alt="10.jpg" width="267">
 
 10. You wait for me to revenge you!
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/11.jpg" alt="11.jpg" width="302">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/11.jpg" alt="11.jpg" width="302">
 
 11. "Can you say sorry?", "No way!"
 
