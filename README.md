@@ -2,7 +2,7 @@
 
 由Maxing博士研发的十分甚至九分好的系统
 
-[English](./README_EN.md)| [繁體中文](./README_TC.md) | [日本語](./README_JA.md)
+[English](./lang/en_US/README.md)| [繁體中文](./lang/zh_TW/README.md) | [日本語](./lang/ja_JP/README.md)
 
 ## 开发历程
 
