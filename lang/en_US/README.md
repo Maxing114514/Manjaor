@@ -1,4 +1,4 @@
-# What is *Manjaor*?
+# Manjaor
 
 Manjaor was developed by Dr. Ma Xing, is perfect and even good.
 
