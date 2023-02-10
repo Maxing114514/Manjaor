@@ -35,46 +35,46 @@
 
 ## 著名人評
 
-<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/1.jpg" title="" alt="1.jpg" width="179">
+<img src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/1.jpg" title="" alt="1.jpg" width="179">
 
 1.回答が遅くなりました。
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/2.jpg" alt="2.jpg" width="179">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/2.jpg" alt="2.jpg" width="179">
 
 2.弁護士もいる。
 
-<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/3.jpg" title="" alt="3.jpg" width="250">
+<img src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/3.jpg" title="" alt="3.jpg" width="250">
 
 3.あなたは私のすべてを台無しにした！
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/4.jpg" alt="4.jpg" width="201">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/4.jpg" alt="4.jpg" width="201">
 
 4.僕をレイプして。
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/5.jpg" alt="5.jpg" data-align="inline">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/5.jpg" alt="5.jpg" data-align="inline">
 
 5.気をつけろ、電話するからな。
 
-<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/6.jpg" title="" alt="6.jpg" width="273">
+<img src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/6.jpg" title="" alt="6.jpg" width="273">
 
 6.400円いただければ、君の個人情報を取得することはありません。
 
-<img src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/7.jpg" title="" alt="7.jpg" width="221">
+<img src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/7.jpg" title="" alt="7.jpg" width="221">
 
 7.お前ら馬鹿か！
 
-![8.jpg](https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/8.jpg)
+![8.jpg](https://raw.fastgit.org/Maxing114514/Manjaor/main/images/8.jpg)
 
 8.もうちょっと金くれりゃあ許してやるぜ。
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/9.jpg" alt="9.jpg" width="272">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/9.jpg" alt="9.jpg" width="272">
 
 9.気をつけろ、お前の家で見つけてやる！。
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/10.jpg" alt="10.jpg" width="267">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/10.jpg" alt="10.jpg" width="267">
 
 10.反撃するのを待て！
 
-<img title="" src="https://cdn.jsdelivr.net/gh/xiaokai1919810/Manjaor@master/images/11.jpg" alt="11.jpg" width="302">
+<img title="" src="https://raw.fastgit.org/Maxing114514/Manjaor/main/images/11.jpg" alt="11.jpg" width="302">
 
 11."ごめんなさいって言える？" "無理だよ！"
